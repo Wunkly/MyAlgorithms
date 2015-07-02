@@ -1,1 +1,2 @@
 # MyAlgorithms
+by Negrean Victor
